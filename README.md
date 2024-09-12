@@ -11,9 +11,3 @@
 ## 📜🔧 LANGUAGES AND TOOLS
 
 ## 💾 RELEVANT PROJECTS
-
-<details>
-  <summary>
-    <h3>🧙‍♂️ About me</h3>
-  </summary>
-</details>
